@@ -1,0 +1,34 @@
+{
+  "_from": "@segment/analytics-react-native-firebase",
+  "_id": "@segment/analytics-react-native-firebase@1.1.0-beta.0",
+  "_inBundle": false,
+  "_integrity": "sha512-NJnUJ57tQoObtbn+ulPUkk7/yK1+IiFfR/5mDUXdtNO3wGDYuHrZdN8TPK3Rq6b33LvxY1H2XU92qjUGGnHNkQ==",
+  "_location": "/@segment/analytics-react-native-firebase",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@segment/analytics-react-native-firebase",
+    "name": "@segment/analytics-react-native-firebase",
+    "escapedName": "@segment%2fanalytics-react-native-firebase",
+    "scope": "@segment",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@segment/analytics-react-native-firebase/-/analytics-react-native-firebase-1.1.0-beta.0.tgz",
+  "_shasum": "9373252c78332c7fb36f459e87263318d3d1a7fb",
+  "_spec": "@segment/analytics-react-native-firebase",
+  "_where": "/Workplace/Apps/MobileApp",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Firebase Integration for Segment's React-Native analytics library.",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "@segment/analytics-react-native-firebase",
+  "version": "1.1.0-beta.0"
+}

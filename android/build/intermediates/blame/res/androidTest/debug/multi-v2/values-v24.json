@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Workplace/Apps/MobileApp/node_modules/@segment/analytics-react-native-firebase/android/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "/Users/morfmorf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/3e992421520f19e4c6923c3026bd212a/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                },
+                {
+                    "source": "/Users/morfmorf/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/b249dcb989de7f008aeb3cb725e77868/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,121,182,248",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "116,177,243,310"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "347,413,474,540",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "408,469,535,602"
+                    }
+                }
+            ]
+        }
+    ]
+}
